@@ -26,8 +26,9 @@
 
 ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 
+``````````````````````````````````````````````````````````````````````````````````````
 1. Create your first migration : Add-Migration InitialCreate
 2. Create your database and schema : Update-Database
 3. Evolving your model : Add-Migration AddBlogCreatedTimestamp, Update-Database
-4. 
+``````````````````````````````````````````````````````````````````````````````````````   
 
